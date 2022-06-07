@@ -31,6 +31,6 @@
 </div>
 
 
-<div class="fixed bottom-0 left-0 w-20">
+<div class="fixed bottom-0 left-0 w-32">
     <img class="w-32" src="logoposte.svg" alt="logo poste italiane"/>
 </div>
