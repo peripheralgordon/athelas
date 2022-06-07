@@ -29,3 +29,8 @@
         <!-- PAGE CONTENT ENDS HERE -->
     </div>
 </div>
+
+
+<div class="fixed bottom-0 left-0 w-20">
+    <img class="w-20" src="logoposte.svg" alt="logo poste italiane"/>
+</div>
