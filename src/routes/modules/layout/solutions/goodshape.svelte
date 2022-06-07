@@ -13,7 +13,7 @@
         <div class="w-2/4">
             <h1 class="font-extrabold text-3xl p-4 pb-2">Complimenti hai un ottimo stile di vita!</h1>
             <p  class="text-lg p-4 pt-2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a enim a tellus sodales dapibus. Ut sed arcu eleifend, sodales lorem ac, dapibus tortor. 
+                Sei una persona che si prende cura del suo corpo, cercando di bilanciare una dieta salutare con un’attività fisica regolare. Le piccole abitudini quotidiane ti aiutano a tenerti in forma, ma ricorda si può fare sempre di più!
             </p>
         </div>
         <div class="flex flex-row justify-center w-2/4">

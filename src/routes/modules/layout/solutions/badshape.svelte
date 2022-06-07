@@ -11,9 +11,9 @@
 <div class="flex flex-col w-full">
     <div class="flex flex-row justify-between w-full">
         <div class="w-2/4">
-            <h1 class="font-extrabold text-3xl p-4 pb-2">Si può fare di meglio!</h1>
+            <h1 class="font-extrabold text-3xl p-4 pb-2">Puoi fare di meglio!</h1>
             <p  class="text-lg p-4 pt-2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a enim a tellus sodales dapibus. Ut sed arcu eleifend, sodales lorem ac, dapibus tortor. 
+                Non ci siamo proprio, il tuo stile di vita non è salutare. Le tue abitudini quotidiane non aiutano a tenerti in forma e a lungo andare potrebbero essere dannose. Ma non ti scoraggiare, perché anche un lungo viaggio inizia con un piccolo passo!
             </p>
         </div>
         <div class="flex flex-row justify-center w-2/4">
