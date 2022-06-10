@@ -15,6 +15,7 @@ export const answers = writable([]);
 export const currentAnswer = writable(0);
 export const score = writable(0);
 export const username = writable("");
+export const nameanswer = writable("");
 export const agreement = writable("");
 export const exit = writable(false);
 

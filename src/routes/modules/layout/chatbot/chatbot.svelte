@@ -9,7 +9,7 @@
     import Sixthmsg from './messages/sixthmsg.svelte';
     import Seventhmsg from './messages/seventhmsg.svelte';
     import Eightmsg from './messages/eightmsg.svelte';
-    import { username, currentQuestion, start, answers, currentAnswer, introQuestions, agreement, exit } from '../../../../storage/store';
+    import { nameanswer, username, currentQuestion, start, answers, currentAnswer, introQuestions, agreement, exit } from '../../../../storage/store';
 
     var interval;
     var text = "";
@@ -20,6 +20,8 @@
 
         // if username has not been set
         if ($introQuestions == 0) {
+
+            nameanswer.set(text);
 
             console.log("setting up user name")
 

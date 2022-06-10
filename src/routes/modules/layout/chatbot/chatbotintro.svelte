@@ -1,7 +1,7 @@
 <script>
     import { fly, fade } from 'svelte/transition';
     import { onMount} from "svelte";
-    import { username, agreement, exit } from '../../../../storage/store';
+    import { nameanswer, username, agreement, exit } from '../../../../storage/store';
 
     var hello = false;
     onMount(() => {
@@ -19,7 +19,7 @@
 
         {#if $username}
             <div in:fly="{{ x: 1000, duration: 200 }}" class="mb-3 rounded-lg text-black bg-slate-300 w-fit self-end">
-                <p class="p-2 pl-4 pr-4">{$username}</p>
+                <p class="p-2 pl-4 pr-4">{$nameanswer}</p>
             </div>
 
             <div in:fly="{{ x: -1000, duration: 200, delay: 500 }}" class="mb-3 bg-blue-700  rounded-lg text-white w-fit">
