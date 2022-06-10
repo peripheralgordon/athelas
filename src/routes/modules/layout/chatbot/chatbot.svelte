@@ -25,7 +25,7 @@
 
             var name = text.split("");
 
-            console.log(name[-1]);
+            console.log(name);
 
             // set name
             username.set(name[-1]);
