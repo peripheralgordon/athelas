@@ -8,8 +8,10 @@
     <div class="w-full h-full bg-black fixed top-0 left-0 flex flex-col justify-center items-center" style="background-color: rgba(100, 100, 100, 0.5); z-index: 100;">
         <div class="bg-gray-300 rounded-3xl opacity-100 flex flex-col justify-center items-center" style="width: 600px; height: 400px;">
             <h1 class="text-4xl font-bold text-orange-600">STAY TUNED!</h1>
-            <img class="p-4 h-32" src="doctor.png" alt="wip"/>
-            <img class="p-4 h-32" src="attention.png" alt="wip"/>
+            <div class="flex flex-row">
+                <img class="p-4 h-32" src="doctor.png" alt="wip"/>
+                <img class="p-4 h-32" src="attention.png" alt="wip"/>
+            </div>
             <p class="p-8 text-lg font-bold text-center">Grazie per aver provato Athelas! Stiamo lavorando per assicurarti un'esperienza di wellness a 360°...</p>
         </div>
     </div>
