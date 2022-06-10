@@ -23,12 +23,12 @@
 
             console.log("setting up user name")
 
-            var name = text.split("");
+            var name = text.split(" ");
 
             console.log(name);
 
             // set name
-            username.set(name[-1]);
+            username.set(name[text.length - 1]);
             // go to intro question number 2
             introQuestions.set(1);
 
