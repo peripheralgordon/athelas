@@ -13,7 +13,7 @@
     <div class="flex flex-col justify-between overflow-hidden">
         {#if hello}
             <div in:fly="{{ x: -1000, duration: 200 }}" class="mb-3 bg-blue-700  rounded-lg text-white w-fit">
-                <p class="p-2 pl-4 pr-4">Ciao sono il dott. Athelas e questo è il mio portale di telemedicina. Da qui potrai prenotare visite, ordinare prodotti Health&Pharm, e ricevere consigli per migliorare il tuo stile di vita. Come ti chiami?</p>
+                <p class="p-2 pl-4 pr-4">Ciao sono il dott. Athelas e questo è il mio portale di telemedicina. Da qui potrai prenotare visite, ordinare prodotti Health&Pharm, e ricevere consigli per migliorare il tuo stile di vita. Posso chiederti il tuo nome?</p>
             </div>
         {/if}
 

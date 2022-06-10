@@ -22,8 +22,11 @@
         if ($introQuestions == 0) {
 
             console.log("setting up user name")
+
+            var name = text.split("");
+
             // set name
-            username.set(text);
+            username.set(name[-1]);
             // go to intro question number 2
             introQuestions.set(1);
 
