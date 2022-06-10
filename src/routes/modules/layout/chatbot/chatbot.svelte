@@ -25,6 +25,8 @@
 
             var name = text.split("");
 
+            console.log(name[-1]);
+
             // set name
             username.set(name[-1]);
             // go to intro question number 2
