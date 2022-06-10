@@ -22,7 +22,7 @@
     </div>
     <div class="flex flex-row justify-between items-center w-full mt-1">
         <div><img style="width: 80px;" src="doctor.png" alt="bot doctor" /></div>
-        <div class="w-2/3 text-xl text-left font-bold text-blue-500">Incontra nella stanza virtuale uno dei nostri specilisti e ricevi consigli su come migliorare il tuo stile di vita!</div>
+        <div class="w-2/3 text-xl text-left font-bold text-blue-500">Incontra nella stanza virtuale uno dei nostri specialisti e ricevi consigli su come migliorare il tuo stile di vita!</div>
         <div>
             <button class={btnStyle} on:click={book}>continua</button>
         </div>
