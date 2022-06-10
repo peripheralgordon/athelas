@@ -25,10 +25,8 @@
 
             var name = text.split(" ");
 
-            console.log(name);
-
             // set name
-            username.set(name[text.length - 1]);
+            username.set(name[name.length - 1]);
             // go to intro question number 2
             introQuestions.set(1);
 
